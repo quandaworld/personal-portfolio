@@ -2,7 +2,7 @@ import React from 'react';
 
 function Timeline() {
   return (
-    <div></div>
+    <div>Timeline</div>
   )
 }
 
