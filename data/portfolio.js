@@ -15,13 +15,13 @@ export default [
     title: 'Book Library',
     imgUrl: '/assets/book-library.png',
     stack: ['HTML', 'CSS', 'JavaScript', 'Firebase'],
-    link: 'https://github.com/quandaworld/library/',
+    link: 'https://quandaworld.github.io/library/',
   },
   {
     title: 'Calculator',
     imgUrl: '/assets/calculator.png',
     stack: ['HTML', 'CSS', 'JavaScript'],
-    link: 'https://github.com/quandaworld/calculator',
+    link: 'https://quandaworld.github.io/calculator/',
   },
   {
     title: 'Etch A Sketch',
@@ -33,6 +33,6 @@ export default [
     title: 'Rock Paper Scissors',
     imgUrl: '/assets/rock-paper-scissors.png',
     stack: ['HTML', 'CSS', 'JavaScript'],
-    link: 'https://github.com/quandaworld/rock-paper-scissors',
+    link: 'https://quandaworld.github.io/rock-paper-scissors/',
   },
 ]
