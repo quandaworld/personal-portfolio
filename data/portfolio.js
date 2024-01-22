@@ -1,7 +1,7 @@
 export default [
   {
     title: 'Personal Portfolio',
-    imgUrl: '',
+    imgUrl: '/assets/portfolio.jpg',
     stack: ['React', 'Tailwind', 'Vite'],
     link: 'https://github.com/quandaworld',
   },
