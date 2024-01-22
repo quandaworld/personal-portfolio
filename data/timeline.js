@@ -8,7 +8,7 @@ export default [
   {
     year: '2022',
     title: 'Self-Taught Programming',
-    duration: '3 years',
+    duration: '1.5 years',
     details: 'To be updated',
   },
   {
