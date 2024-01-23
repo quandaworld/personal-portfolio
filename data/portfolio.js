@@ -1,7 +1,7 @@
 export default [
   {
     title: 'Personal Portfolio',
-    imgUrl: '/assets/portfolio.jpg',
+    imgUrl: '/assets/portfolio.png',
     stack: ['React', 'Tailwind', 'Vite'],
     link: 'https://quannguyendev.com/',
   },
