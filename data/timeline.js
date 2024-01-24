@@ -2,14 +2,14 @@ export default [
   {
     year: 'Today',
     title: 'Building my 11th Project and More!',
-    duration: 'Present',
-    details: "This portfolio that you’re seeing marks my 11th project and the first time I applied libraries and frameworks, specifically React and Tailwind CSS. My next project is a web application about tide pooling in San Diego, showing users the best dates and the corresponding tide levels. I also plan to expand my programming skills with new frameworks and languages.",
+    duration: 'present',
+    details: "This portfolio that you are seeing marks my 11th project and the first time I applied libraries and frameworks, specifically React and Tailwind CSS. My next project is a web application about tide pooling in San Diego, showing users the best dates and the corresponding tide levels. I also plan to expand my programming skills with new frameworks and languages.",
   },
   {
     year: '2023',
     title: 'Finished the 10th Project',
     duration: 'the first checkpoint',
-    details: "My projects keep evolving, from a demo landing page to a functional calculator and then a book library with sorting function! Before Christmas, I finished my 10th project, a versatile Tic-Tac-Toe game with Unbeatable AI powered by the minimax algorithm.",
+    details: "My projects keep evolving, from a demo landing page to a functional calculator and then a book library with sorting function! Before Christmas, I finished my 10th project, a versatile Tic-Tac-Toe game with unbeatable AI powered by the minimax algorithm.",
   },
   {
     year: '2023',
