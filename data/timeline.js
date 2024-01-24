@@ -1,19 +1,19 @@
 export default [
   {
     year: 'Today',
-    title: 'Building my 11th Project and More!',
+    title: 'Building My 11th Project and More!',
     duration: 'present',
     details: "This portfolio that you are seeing marks my 11th project and the first time I applied libraries and frameworks, specifically React and Tailwind CSS. My next project is a web application about tide pooling in San Diego, showing users the best dates and the corresponding tide levels. I also plan to expand my programming skills with new frameworks and languages.",
   },
   {
     year: '2023',
     title: 'Finished the 10th Project',
-    duration: 'the first checkpoint',
+    duration: 'the first milestone',
     details: "My projects keep evolving, from a demo landing page to a functional calculator and then a book library with sorting function! Before Christmas, I finished my 10th project, a versatile Tic-Tac-Toe game with unbeatable AI powered by the minimax algorithm.",
   },
   {
     year: '2023',
-    title: 'Started The Odin Project',
+    title: "Started TheOdinProject.com",
     duration: '5 months',
     details: 'This platform really helped me focus with a more structured curriculum. I built my first project in the same month, a recipe website! It looks a little lame, but I am super proud of it!',
   },
