@@ -7,7 +7,7 @@ function Intro() {
       <p className="text-base md:text-xl mb-5 font-medium">Self-Taught Software Engineer</p>
       <div className="max-w-4xl grid grid-cols-1 mb-2 md:grid-cols-4 gap-y-5 md:gap-6">
         <img
-          src='public/assets/portrait.jpg'
+          src='/assets/portrait.png'
           alt="self-portrait"
           className="h-36 md:h-48 object-cover rounded-md justify-self-center border-2 border-gray-900 dark:border-white"
         />
