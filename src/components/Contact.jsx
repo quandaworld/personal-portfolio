@@ -13,13 +13,13 @@ function Contact() {
           <Title>Contact</Title>
           <input 
             type="text"
-            name='name'
+            name="name"
             placeholder='Name'
             className='p-2 bg-transparent border-2 rounded-md focus:outline-none'
           />
           <input 
             type="text"
-            name='email'
+            name="email"
             placeholder='Email'
             className='my-2 p-2 bg-transparent border-2 rounded-md focus:outline-none'
           />
@@ -30,7 +30,7 @@ function Contact() {
             className='p-2 mb-4 bg-transparent border-2 rounded-md focus:outline-none'
           />
           <button
-            type='button'
+            type='submit'
             className='text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white'
           >
             Work With Me
