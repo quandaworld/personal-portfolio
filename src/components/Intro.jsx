@@ -12,8 +12,8 @@ function Intro() {
           className="h-36 md:h-48 object-cover rounded-md justify-self-center border-2 border-gray-900 dark:border-white"
         />
         <div className='col-span-3'>
-          <p className="text-sm mb-4 font-bold">As a self-taught developer with a passion for technology, I am eager to further expand my expertise and contribute to innovative projects in the world of software and mobile application development. As a former tax accountant, I am highly detail-oriented, organized, and have a logical mindset, which allows me to approach programming challenges in a systematic and efficient manner. My keen interest in problem-solving drives me to constantly acquire new skills and knowledge, making me a valuable addition to any development team.</p>
-          <p className='text-sm mb-2 font-bold'>I am seeking opportunities to learn and grow in the field of software and mobile application development, and am committed to making meaningful contributions to cutting-edge projects.</p>
+          <p className="text-sm mb-4 font-bold">I’m a self-taught software engineer from San Diego, California. With a background in accounting, I am highly detail-oriented, organized, and have an analytical mindset, which allows me to approach programming challenges in a systematic and efficient manner.</p>
+          <p className='text-sm mb-2 font-bold'>If you want to know more about me, my work, or if you want to offer me a lot of money so I can visit my animal friends in the safari park and the aquarium every week, feel free to contact me by scrolling to the bottom of this site.</p>
         </div>
       </div>
     </div>
