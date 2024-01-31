@@ -27,7 +27,7 @@ export default [
     year: '2022',
     title: 'Took a Break to Take Care of Family',
     duration: '10 months',
-    details: 'Life threw another curve ball when my dad was diagnosed with cancer. Balancing caregiving responsibilities with coding really tested my commitment to this newfound passion.',
+    details: 'Life threw another curveball when my dad was diagnosed with cancer. Balancing caregiving responsibilities with coding really tested my commitment to this newfound passion.',
   },
   {
     year: '2022',
