@@ -3,7 +3,7 @@ export default [
     year: 'Today',
     title: 'Building My 11th Project and More!',
     duration: 'present',
-    details: "This portfolio that you are seeing marks my 11th project and the first time I applied libraries and frameworks, specifically React and Tailwind CSS. My next project is a web application about tide pooling in San Diego, showing users the best dates and the corresponding tide levels. I also plan to expand my programming skills with new frameworks and languages.",
+    details: "This portfolio that you are seeing marks my 11th project and the first time I applied libraries and frameworks, specifically React and Tailwind CSS. My next project is a web application about tide pooling in the US, showing users the best dates for tide-pooling and the corresponding tide levels. I also plan to expand my programming skills with new frameworks and languages.",
   },
   {
     year: '2023',
