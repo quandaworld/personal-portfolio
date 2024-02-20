@@ -2,8 +2,14 @@ export default [
   {
     title: 'Personal Portfolio',
     imgUrl: '/assets/portfolio.png',
-    stack: ['React', 'Tailwind CSS', 'Vite'],
+    stack: ['React', 'Vite', 'Tailwind CSS'],
     link: 'https://quannguyendev.com/',
+  },
+  {
+    title: 'Tide-Pooling App (in progress)',
+    imgUrl: '/assets/tidepooling.png',
+    stack: ['React', 'Vite', 'Tailwind CSS'],
+    link: 'https://github.com/quandaworld/tidepooling',
   },
   {
     title: 'Tic-Tac-Toe with Unbeatable AI',
@@ -28,11 +34,5 @@ export default [
     imgUrl: '/assets/etch-a-sketch.png',
     stack: ['HTML', 'CSS', 'JavaScript'],
     link: 'https://quandaworld.github.io/etch-a-sketch/',
-  },
-  {
-    title: 'Rock Paper Scissors',
-    imgUrl: '/assets/rock-paper-scissors.png',
-    stack: ['HTML', 'CSS', 'JavaScript'],
-    link: 'https://quandaworld.github.io/rock-paper-scissors/',
   },
 ]
