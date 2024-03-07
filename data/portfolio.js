@@ -8,7 +8,7 @@ export default [
   {
     title: 'Tide-Pooling App (in progress)',
     imgUrl: '/assets/tidepooling.png',
-    stack: ['React', 'Vite', 'Tailwind CSS'],
+    stack: ['React', 'Vite', 'Tailwind CSS', 'REST API', 'Node JS', 'MongoDB'],
     link: 'https://github.com/quandaworld/tidepooling',
   },
   {
