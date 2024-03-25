@@ -6,9 +6,15 @@ export default [
     link: 'https://quannguyendev.com/',
   },
   {
+    title: 'My Library Pro',
+    imgUrl: '/assets/my-library-pro.png',
+    stack: ['MongoDB', 'Express.js', 'React', 'Vite', 'Tailwind CSS', 'Node.js'],
+    link: 'https://github.com/quandaworld/book-library-pro',
+  },
+  {
     title: 'Tide-Pooling App (in progress)',
     imgUrl: '/assets/tidepooling.png',
-    stack: ['React', 'Vite', 'Tailwind CSS', 'REST API', 'Node JS', 'MongoDB'],
+    stack: ['MongoDB', 'Express.js', 'React', 'Vite', 'Tailwind CSS', 'Node.js', 'REST APIs'],
     link: 'https://github.com/quandaworld/tidepooling',
   },
   {
@@ -18,16 +24,10 @@ export default [
     link: 'https://quandaworld.github.io/tic-tac-toe/',
   },
   {
-    title: 'Book Library',
+    title: 'My Library',
     imgUrl: '/assets/book-library.png',
-    stack: ['HTML', 'CSS', 'JavaScript', 'Firebase'],
-    link: 'https://quandaworld.github.io/library/',
-  },
-  {
-    title: 'Calculator',
-    imgUrl: '/assets/calculator.png',
     stack: ['HTML', 'CSS', 'JavaScript'],
-    link: 'https://quandaworld.github.io/calculator/',
+    link: 'https://quandaworld.github.io/library/',
   },
   {
     title: 'Etch A Sketch',
