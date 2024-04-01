@@ -9,7 +9,7 @@ export default [
     title: 'My Library Pro',
     imgUrl: '/assets/my-library-pro.png',
     stack: ['MongoDB', 'Express.js', 'React', 'Vite', 'Tailwind CSS', 'Node.js'],
-    link: 'https://github.com/quandaworld/book-library-pro',
+    link: 'https://my-library-pro.onrender.com/',
   },
   {
     title: 'Tide-Pooling App (in progress)',
