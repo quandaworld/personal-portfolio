@@ -6,9 +6,9 @@ export default [
     link: 'https://quannguyendev.com/',
   },
   {
-    title: 'My Library Pro',
-    imgUrl: '/assets/my-library-pro.png',
-    stack: ['MongoDB', 'Express.js', 'React', 'Vite', 'Tailwind CSS', 'Node.js'],
+    title: 'Bookaboo',
+    imgUrl: '/assets/bookaboo.png',
+    stack: ['MongoDB', 'Express.js', 'React', 'Vite', 'Tailwind CSS', 'Node.js', 'REST APIs'],
     link: 'https://my-library-pro.onrender.com/',
   },
   {
