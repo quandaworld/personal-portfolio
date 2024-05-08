@@ -27,7 +27,7 @@ export default [
     title: 'My Library',
     imgUrl: '/assets/book-library.png',
     stack: ['HTML', 'CSS', 'JavaScript'],
-    link: 'https://quandaworld.github.io/library/',
+    link: 'https://quandaworld.github.io/my-library/',
   },
   {
     title: 'Etch A Sketch',
