@@ -8,32 +8,32 @@ function Contact() {
         <form 
           action="https://getform.io/f/5e14d77e-44d9-46b9-83f6-c3b5f8514e9a"
           method="POST"
-          className='flex flex-col w-full md:w-7/12'
+          className='flex flex-col w-full md:w-7/12 font-extralight'
         >
-          <Title>Contact</Title>
+          <Title>connect</Title>
           <input 
             type="text"
             name="name"
-            placeholder='Name'
-            className='p-2 bg-transparent border-2 rounded-md focus:outline-none'
+            placeholder='name'
+            className='p-2 bg-transparent border-[1.5px] border-gray-300 dark:border-gray-400 rounded-md focus:outline-none'
           />
           <input 
             type="text"
             name="email"
-            placeholder='Email'
-            className='my-2 p-2 bg-transparent border-2 rounded-md focus:outline-none'
+            placeholder='email'
+            className='my-2 p-2 bg-transparent border-[1.5px] border-gray-300 dark:border-gray-400 rounded-md focus:outline-none'
           />
           <textarea 
             name="message" 
-            placeholder='Message'  
+            placeholder='message'  
             rows="10"
-            className='p-2 mb-4 bg-transparent border-2 rounded-md focus:outline-none'
+            className='p-2 mb-4 bg-transparent border-[1.5px] border-gray-300 dark:border-gray-400 rounded-md focus:outline-none'
           />
           <button
             type='submit'
-            className='text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white'
+            className='text-center inline-block px-8 py-[10px] w-max text-base font-normal rounded-md text-gray-900 bg-lime-300 hover:bg-lime-500'
           >
-            Work With Me
+            letschat!
           </button>
         </form>
       </div>
