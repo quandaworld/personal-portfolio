@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import Sidenav from './components/Sidenav';
 import Intro from './components/Intro';
 import Timeline from './components/Timeline';
 import Portfolio from './components/Portfolio';
@@ -67,12 +68,13 @@ function App() {
       <button
         type='button'
         onClick={handleThemeSwitch}
-        className='fixed p-2 z-10 right-20 top-4 bg-violet-300 dark:bg-orange-300 text-lg p-1 rounded-md'
+        className='fixed p-2 z-10 right-20 top-4 bg-violet-300 dark:bg-orange-300 text-lg rounded-md'
       >
         {theme === 'dark' ? sun : moon}
       </button>
-      <div className="bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-300 min-h-screen font-inter">
+      <div className="bg-gray-50 dark:bg-slate-800 text-gray-900 dark:text-gray-300 min-h-screen font-geistMono">
         <div className='max-w-6xl w-11/12 mx-auto'>
+					<Sidenav />
           <Intro />
           <Portfolio />
           <Timeline />
