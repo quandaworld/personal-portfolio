@@ -12,7 +12,7 @@ export default [
     link: 'https://quandaworld.github.io/santamazing/',
   },
   {
-    title: 'Napply (in progress)',
+    title: 'Hueberry (in progress)',
     imgUrl: '/assets/wip.png',
     stack: ['Node.js', 'Express.js', 'MongoDB', 'EJS'],
     link: 'https://github.com/quandaworld/',
