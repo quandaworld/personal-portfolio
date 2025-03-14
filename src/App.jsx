@@ -74,7 +74,7 @@ function App() {
       </button>
       <div className="bg-gray-50 dark:bg-slate-800 text-gray-900 dark:text-gray-300 min-h-screen font-geistMono">
         <div className='max-w-6xl w-11/12 mx-auto'>
-					<Sidenav />
+					{/* <Sidenav /> */}
           <Intro />
           <Portfolio />
           <Timeline />
