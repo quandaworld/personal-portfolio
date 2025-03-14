@@ -3,7 +3,7 @@ export default [
     year: 'today',
     title: 'Adobe Digital Academy and Beyond',
     duration: '',
-    details: 'This portfolio is my first project with frameworks and libraries—proof that I\'ve finally graduated from "vanilla everything" status. Ah, I also got selected for the Adobe Digital Academy\'s SWE cohort, with a full ride! now I\'m diving into the MERN stack while contemplating what kind of dev I want to be…',
+    details: 'This portfolio is my first project with frameworks and libraries—proof that I\'ve finally graduated from "vanilla everything" status. Ah, I also got selected for the Adobe Digital Academy\'s SWE cohort, with a full ride! Now I\'m diving into the MERN stack while contemplating what kind of dev I want to be…',
   },
   {
     year: '2024',
