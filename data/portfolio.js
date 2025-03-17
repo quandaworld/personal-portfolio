@@ -13,9 +13,9 @@ export default [
   },
   {
     title: 'Hueberry (in progress)',
-    imgUrl: '/assets/wip.png',
-    stack: ['Node.js', 'Express.js', 'MongoDB', 'EJS'],
-    link: 'https://github.com/quandaworld/',
+    imgUrl: '/assets/hueberry.png',
+    stack: ['Node.js', 'Express.js', 'MongoDB', 'EJS', 'Tailwind CSS'],
+    link: 'https://github.com/quandaworld/hueberry/',
   },
   {
     title: 'Bookaboo',
