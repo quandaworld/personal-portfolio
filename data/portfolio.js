@@ -12,10 +12,10 @@ export default [
     link: 'https://quandaworld.github.io/santamazing/',
   },
   {
-    title: 'Hueberry (in progress)',
+    title: 'Hueberry',
     imgUrl: '/assets/hueberry.png',
-    stack: ['Node.js', 'Express.js', 'MongoDB', 'EJS', 'Tailwind CSS'],
-    link: 'https://github.com/quandaworld/hueberry/',
+    stack: ['Node.js', 'Express.js', 'MongoDB', 'EJS', 'CSS'],
+    link: 'https://hueberry-3fc9d323e30c.herokuapp.com/',
   },
   {
     title: 'Bookaboo',
