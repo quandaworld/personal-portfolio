@@ -6,16 +6,16 @@ export default [
     link: 'https://quannguyendev.com/',
   },
   {
-    title: 'Santamazing',
-    imgUrl: '/assets/santamazing.png',
-    stack: ['HTML', 'CSS', 'JavaScript'],
-    link: 'https://quandaworld.github.io/santamazing/',
-  },
-  {
     title: 'Hueberry',
     imgUrl: '/assets/hueberry.png',
     stack: ['Node.js', 'Express.js', 'MongoDB', 'EJS', 'CSS'],
     link: 'https://hueberry-3fc9d323e30c.herokuapp.com/',
+  },
+  {
+    title: 'Santamazing',
+    imgUrl: '/assets/santamazing.png',
+    stack: ['HTML', 'CSS', 'JavaScript'],
+    link: 'https://quandaworld.github.io/santamazing/',
   },
   {
     title: 'Bookaboo',
