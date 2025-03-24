@@ -2,12 +2,14 @@ import React from 'react';
 
 function PortfolioItem({ title, imgUrl, stack, link, github }) {
   return (
-    <div className='border-[1px] border-b-4 border-gray-900 dark:border-amber-50 rounded-lg overflow-hidden'>
-      <img
-        src={imgUrl}
-        alt="portfolio"
-        className="w-full h-auto md:h-48 object-cover cursor-pointer"
-      />
+    <div className='border-[1px] border-b-4 border-gray-900 dark:border-amber-50 rounded-lg overflow-hidden hover:-translate-y-0.5'>
+      <a href={link} target='_blank' rel='noopener noreferrer'>
+        <img
+          src={imgUrl}
+          alt="portfolio"
+          className="w-full h-auto md:h-48 object-cover cursor-pointer"
+        />
+      </a>
       <div className="w-full p-4">
         <div className="flex justify-between items-center mb-2 md:mb-3">
           <h3 className='text-lg md:text-xl dark:text-amber-50 font-semibold'>{title}</h3>
