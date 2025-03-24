@@ -2,7 +2,7 @@ import React from 'react';
 
 function PortfolioItem({ title, imgUrl, stack, link, github }) {
   return (
-    <div className='border-[1.5px] border-gray-500 dark:border-amber-50 rounded-md overflow-hidden'>
+    <div className='border-[1px] border-b-4 border-gray-900 dark:border-amber-50 rounded-lg overflow-hidden'>
       <img
         src={imgUrl}
         alt="portfolio"
@@ -32,9 +32,9 @@ function PortfolioItem({ title, imgUrl, stack, link, github }) {
             )}
           </div>
         </div>
-        <p className='flex flex-wrap gap-2 flex-row items-center justify-start text-xs md:text-sm dark:text-amber-50'>
+        <p className='flex flex-wrap gap-2 flex-row items-center justify-start text-xs md:text-xs dark:text-amber-50'>
           {stack.map((item, index) => (
-            <span key={index} className='inline-block px-2 py-1 font-semibold border-[1.5px] border-gray-500 dark:border-amber-50 rounded-md'>
+            <span key={index} className='inline-block px-2 py-1 font-semibold border-[1px] border-gray-900 dark:border-amber-50 rounded-full'>
               {item}
             </span>
           ))}
