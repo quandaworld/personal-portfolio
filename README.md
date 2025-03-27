@@ -1,4 +1,4 @@
-# Personal Portfolio
+# Playfolio (Personal Portfolio)
 
 ## Overview
 
@@ -7,6 +7,10 @@ A modern, responsive personal portfolio website built with React and Tailwind CS
 ## Live Demo
 
 [View the live site](https://quannguyendev.com/)
+
+## Screenshots
+
+![App Screenshot](./public/assets/appScreenshot.png)
 
 ## Features
 
